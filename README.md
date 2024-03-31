@@ -47,9 +47,8 @@ Bu proje, React kullanarak basit bir ilerleme çubuğu arayüzü tasarlamak içi
 
 ## Ekran Görüntüleri
 
-![Uygulama Görüntüsü 1](screenshots/screenshot1.png)
+![Ekran görüntüsü 2024-03-31 130244](https://github.com/alicankocman/React--Day-1598-Progress-Bar-UI-Design/assets/88544926/0a87f2c7-38cc-4f57-b587-9d150a9f3cf7)
 
-![Uygulama Görüntüsü 2](screenshots/screenshot2.png)
 
 ## Katkıda Bulunma
 
