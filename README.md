@@ -1,4 +1,3 @@
-# React--Day-1598-Progress-Bar-UI-Design
 # React Progress Bar UI Tasarımı
 
 Bu proje, React kullanarak basit bir ilerleme çubuğu arayüzü tasarlamak için yapılmıştır. Proje, kullanıcıların belirli bir süre içinde tamamlamaları gereken görevlerin ilerlemesini görselleştirmek için bir ilerleme çubuğu sağlar.
