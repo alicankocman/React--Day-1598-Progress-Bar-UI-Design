@@ -1,0 +1,98 @@
+.c_one{
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: #232A70;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c_two{
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: #232A70;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+}
+.c_three{
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid #232A70;
+    color: #232A70;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c_four{
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid #232A70;
+    color: #232A70;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c_five{
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid #232A70;
+    color: #232A70;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 76px;
+    color: white;
+}
+.c_one, .c_two, .c_three, .c_four, .c_five {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.c_five {
+    margin-right: 0;
+}
+
+.text{
+    color: #232A70;
+ margin: 0;
+}
+
+.c_one text, .c_two text{
+    font-family: 'Inter';
+}
+.group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+
+.group:last-child {
+    margin-right: 0;
+}
+
+.inter-body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+  
