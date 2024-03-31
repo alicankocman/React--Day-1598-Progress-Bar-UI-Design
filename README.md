@@ -55,7 +55,3 @@ Bu proje, React kullanarak basit bir ilerleme çubuğu arayüzü tasarlamak içi
 
 Bu proje açık kaynaklıdır ve katkıda bulunmaya her zaman açıktır. Her türlü katkıyı memnuniyetle karşılıyoruz.
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
-
