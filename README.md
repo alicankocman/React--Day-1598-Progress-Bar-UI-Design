@@ -6,7 +6,6 @@ Bu proje, React kullanarak basit bir ilerleme çubuğu arayüzü tasarlamak içi
 
 - Kullanıcı dostu arayüz
 - Belirli bir görevin tamamlanma durumunu görsel olarak gösterme
-- Animasyonlu ilerleme efekti
 
 ## Kurulum
 
